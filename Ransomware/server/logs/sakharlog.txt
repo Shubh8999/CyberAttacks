@@ -1,0 +1,244 @@
+2021-07-08 20:46:53.755436{'ip address': '192.168.56.1', 'nom': 'joystick_keys.pdf', 'taille': 1253853, 'date de creation': 'Thu Jul  8 20:46:45 2021', 'date de modification': 'Thu Jul  8 20:46:49 2021'}
+2021-07-08 20:47:02.675226{'ip address': '192.168.56.1', 'nom': 'joystick_keys.pdf', 'result': 0}
+2021-07-08 20:48:19.751396{'ip address': '192.168.56.1', 'nom': 'joystick_keys.pdf', 'taille': 1253853, 'date de creation': 'Thu Jul  8 20:48:12 2021', 'date de modification': 'Thu Jul  8 20:48:15 2021'}
+2021-07-08 20:48:28.723343{'ip address': '192.168.56.1', 'nom': 'joystick_keys.pdf', 'result': 0}
+2021-07-08 20:56:49.377518{'ip address': '192.168.56.1', 'nom': 'new_game.jar', 'taille': 57133, 'date de creation': 'Thu Jul  8 20:56:43 2021', 'date de modification': 'Thu Jul  8 20:56:45 2021'}
+2021-07-08 20:56:57.802198{'ip address': '192.168.56.1', 'nom': 'new_game.jar', 'result': 0}
+2021-07-08 20:58:48.624371{'ip address': '192.168.56.1', 'nom': 'new_game.jar', 'taille': 57133, 'date de creation': 'Thu Jul  8 20:58:43 2021', 'date de modification': 'Thu Jul  8 20:58:44 2021'}
+2021-07-08 20:58:57.420286{'ip address': '192.168.56.1', 'nom': 'new_game.jar', 'result': 0}
+2021-07-08 21:01:28.273679{'ip address': '192.168.56.1', 'nom': 'new_game.jar', 'taille': 57133, 'date de creation': 'Thu Jul  8 21:01:23 2021', 'date de modification': 'Thu Jul  8 21:01:24 2021'}
+2021-07-08 21:01:36.373129{'ip address': '192.168.56.1', 'nom': 'new_game.jar', 'result': 0}
+2021-07-08 21:05:02.923507{'ip address': '192.168.56.1', 'nom': 'new_game.jar', 'taille': 57133, 'date de creation': 'Thu Jul  8 21:04:57 2021', 'date de modification': 'Thu Jul  8 21:04:59 2021'}
+2021-07-08 21:05:11.088980{'ip address': '192.168.56.1', 'nom': 'new_game.jar', 'result': 0}
+2021-07-08 21:05:25.276831{'ip address': '192.168.56.1', 'nom': 'WannaCrypt0r.exe', 'taille': 0, 'date de creation': 'Thu Jul  8 21:05:24 2021', 'date de modification': 'Thu Jul  8 21:05:24 2021'}
+2021-07-08 21:06:19.619232{'ip address': '192.168.56.1', 'nom': 'new_game.jar', 'taille': 57133, 'date de creation': 'Thu Jul  8 21:06:13 2021', 'date de modification': 'Thu Jul  8 21:06:15 2021'}
+2021-07-08 21:06:28.041118{'ip address': '192.168.56.1', 'nom': 'new_game.jar', 'result': 0}
+2021-07-08 21:06:41.964269{'ip address': '192.168.56.1', 'nom': 'WannaCrypt0r_2.exe', 'taille': 0, 'date de creation': 'Thu Jul  8 21:06:41 2021', 'date de modification': 'Thu Jul  8 21:06:41 2021'}
+2021-07-08 21:06:45.274847{'ip address': '192.168.56.1', 'nom': 'WannaCrypt0r.exe_2.part', 'taille': 3514368, 'date de creation': 'Thu Jul  8 21:06:36 2021', 'date de modification': 'Thu Jul  8 21:06:43 2021'}
+2021-07-08 21:06:56.664280{'ip address': '192.168.56.1', 'nom': 'WannaCrypt0r.exe_2.part', 'result': 1}
+2021-07-08 21:09:53.405104{'ip address': '192.168.56.1', 'nom': 'SAKHAR_Ransomware.exe', 'taille': 236032, 'date de creation': 'Thu Jul  8 21:09:51 2021', 'date de modification': 'Thu Jul  8 21:09:53 2021'}
+2021-07-08 21:16:53.750472{'ip address': '192.168.56.1', 'nom': 'new_game.jar', 'taille': 57133, 'date de creation': 'Thu Jul  8 21:16:48 2021', 'date de modification': 'Thu Jul  8 21:16:49 2021'}
+2021-07-08 21:17:01.854161{'ip address': '192.168.56.1', 'nom': 'new_game.jar', 'result': 0}
+2021-07-08 21:17:17.109158{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'taille': 74752, 'date de creation': 'Thu Jul  8 21:17:14 2021', 'date de modification': 'Thu Jul  8 21:17:16 2021'}
+2021-07-08 21:17:25.571414{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'result': 0}
+2021-07-08 21:17:25.732422{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'taille': 74752, 'date de creation': 'Thu Jul  8 21:17:14 2021', 'date de modification': 'Thu Jul  8 21:17:16 2021'}
+2021-07-08 21:17:44.766420{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'result': 0}
+2021-07-08 21:17:59.713464{'ip address': '192.168.56.1', 'nom': 'SAKHAR_Ransomware.exe', 'taille': 236032, 'date de creation': 'Thu Jul  8 21:17:57 2021', 'date de modification': 'Thu Jul  8 21:17:59 2021'}
+2021-07-08 21:18:08.719374{'ip address': '192.168.56.1', 'nom': 'SAKHAR_Ransomware.exe', 'result': 1}
+2021-07-08 21:18:45.852598{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'taille': 74752, 'date de creation': 'Thu Jul  8 21:18:45 2021', 'date de modification': 'Wed Jun 23 23:34:10 2021'}
+2021-07-08 21:18:45.989629{'ip address': '192.168.56.1', 'nom': 'Petya_A.exe', 'taille': 230912, 'date de creation': 'Thu Jul  8 21:18:45 2021', 'date de modification': 'Mon Aug 15 13:32:38 2016'}
+2021-07-08 21:18:54.472787{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'result': 0}
+2021-07-08 21:18:54.510795{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'taille': 74752, 'date de creation': 'Thu Jul  8 21:18:45 2021', 'date de modification': 'Wed Jun 23 23:34:10 2021'}
+2021-07-08 21:18:55.051016{'ip address': '192.168.56.1', 'nom': 'Petya_A.exe', 'result': 1}
+2021-07-08 21:22:42.825894{'ip address': '192.168.56.1', 'nom': 'new_game.jar', 'taille': 57133, 'date de creation': 'Thu Jul  8 21:22:37 2021', 'date de modification': 'Thu Jul  8 21:22:38 2021'}
+2021-07-08 21:22:50.899594{'ip address': '192.168.56.1', 'nom': 'new_game.jar', 'result': 0}
+2021-07-08 21:23:05.487721{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'taille': 74752, 'date de creation': 'Thu Jul  8 21:23:02 2021', 'date de modification': 'Thu Jul  8 21:23:05 2021'}
+2021-07-08 21:23:14.359614{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'result': 0}
+2021-07-08 21:23:14.510648{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'taille': 74752, 'date de creation': 'Thu Jul  8 21:23:02 2021', 'date de modification': 'Thu Jul  8 21:23:05 2021'}
+2021-07-08 21:23:33.074803{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'result': 0}
+2021-07-08 21:23:49.825621{'ip address': '192.168.56.1', 'nom': 'SAKHAR_Ransomware.exe', 'taille': 236032, 'date de creation': 'Thu Jul  8 21:23:46 2021', 'date de modification': 'Thu Jul  8 21:23:49 2021'}
+2021-07-08 21:23:58.277590{'ip address': '192.168.56.1', 'nom': 'SAKHAR_Ransomware.exe', 'result': 1}
+2021-07-08 21:24:17.042624{'ip address': '192.168.56.1', 'nom': 'Petya_A.exe', 'taille': 230912, 'date de creation': 'Thu Jul  8 21:24:16 2021', 'date de modification': 'Mon Aug 15 13:32:38 2016'}
+2021-07-08 21:24:25.202665{'ip address': '192.168.56.1', 'nom': 'Petya_A.exe', 'result': 1}
+2021-07-08 21:28:55.340392{'ip address': '192.168.56.1', 'nom': 'new_game.jar', 'taille': 57133, 'date de creation': 'Thu Jul  8 21:28:49 2021', 'date de modification': 'Thu Jul  8 21:28:51 2021'}
+2021-07-08 21:29:03.483896{'ip address': '192.168.56.1', 'nom': 'new_game.jar', 'result': 0}
+2021-07-08 21:29:14.947257{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'taille': 74752, 'date de creation': 'Thu Jul  8 21:29:12 2021', 'date de modification': 'Thu Jul  8 21:29:14 2021'}
+2021-07-08 21:29:23.077204{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'result': 0}
+2021-07-08 21:29:23.147222{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'taille': 74752, 'date de creation': 'Thu Jul  8 21:29:12 2021', 'date de modification': 'Thu Jul  8 21:29:14 2021'}
+2021-07-08 21:29:40.474256{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'result': 0}
+2021-07-08 21:29:58.173076{'ip address': '192.168.56.1', 'nom': 'Onion_Ransomware.exe', 'taille': 0, 'date de creation': 'Thu Jul  8 21:29:57 2021', 'date de modification': 'Thu Jul  8 21:29:57 2021'}
+2021-07-08 22:39:29.948930{'ip address': '192.168.56.1', 'nom': 'game_ideas.pdf', 'taille': 76944, 'date de creation': 'Thu Jul  8 22:39:25 2021', 'date de modification': 'Sat Jun 26 16:06:12 2021'}
+2021-07-08 22:39:38.578141{'ip address': '192.168.56.1', 'nom': 'game_ideas.pdf', 'result': 0}
+2021-07-08 22:39:38.663161{'ip address': '192.168.56.1', 'nom': 'game_ideas.pdf', 'taille': 76944, 'date de creation': 'Thu Jul  8 22:39:25 2021', 'date de modification': 'Sat Jun 26 16:06:12 2021'}
+2021-07-08 22:44:03.720380{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'taille': 74752, 'date de creation': 'Thu Jul  8 22:44:00 2021', 'date de modification': 'Wed Jun 23 23:34:08 2021'}
+2021-07-08 22:44:12.532285{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'result': 0}
+2021-07-08 22:44:12.654311{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'taille': 74752, 'date de creation': 'Thu Jul  8 22:44:00 2021', 'date de modification': 'Wed Jun 23 23:34:08 2021'}
+2021-07-08 22:44:29.416486{'ip address': '192.168.56.1', 'nom': 'controller_driver.exe', 'result': 0}
+2021-07-08 22:44:41.065620{'ip address': '192.168.56.1', 'nom': 'joystick_keys.reg', 'taille': 28488, 'date de creation': 'Thu Jul  8 22:44:40 2021', 'date de modification': 'Sun Aug 16 21:29:30 2020'}
+2021-07-08 22:44:49.364221{'ip address': '192.168.56.1', 'nom': 'joystick_keys.reg', 'result': 0}
+2021-07-08 22:44:49.525257{'ip address': '192.168.56.1', 'nom': 'joystick_keys.reg', 'taille': 28488, 'date de creation': 'Thu Jul  8 22:44:40 2021', 'date de modification': 'Sun Aug 16 21:29:30 2020'}
+2021-07-08 22:52:16.049497{'ip address': '192.168.56.1', 'nom': 'ttet.reg', 'taille': 28488, 'date de creation': 'Thu Jul  8 22:52:12 2021', 'date de modification': 'Sun Aug 16 21:29:30 2020'}
+2021-07-08 22:52:24.150396{'ip address': '192.168.56.1', 'nom': 'ttet.reg', 'result': 0}
+2021-07-08 22:52:24.212409{'ip address': '192.168.56.1', 'nom': 'ttet.reg', 'taille': 28488, 'date de creation': 'Thu Jul  8 22:52:12 2021', 'date de modification': 'Sun Aug 16 21:29:30 2020'}
+2021-07-08 23:02:46.904712{'ip address': '192.168.56.1', 'nom': 'ttet.reg', 'result': 1}
+2021-07-08 23:08:00.904768{'ip address': '192.168.56.1', 'nom': 'DONTOPEN.py', 'taille': 5170, 'date de creation': 'Thu Jul  8 23:07:57 2021', 'date de modification': 'Tue Jun 22 09:30:39 2021'}
+2021-07-08 23:08:09.142602{'ip address': '192.168.56.1', 'nom': 'DONTOPEN.py', 'result': 0}
+2021-07-08 23:09:04.511801{'ip address': '192.168.56.1', 'nom': 'DONTOPEN.py', 'taille': 5170, 'date de creation': 'Thu Jul  8 23:09:00 2021', 'date de modification': 'Tue Jun 22 09:30:39 2021'}
+2021-07-08 23:09:13.096733{'ip address': '192.168.56.1', 'nom': 'DONTOPEN.py', 'result': 0}
+2021-07-08 23:10:07.095366{'ip address': '192.168.56.1', 'nom': 'DONTOPEN.py', 'taille': 5170, 'date de creation': 'Thu Jul  8 23:10:03 2021', 'date de modification': 'Tue Jun 22 09:30:39 2021'}
+2021-07-08 23:10:15.193715{'ip address': '192.168.56.1', 'nom': 'DONTOPEN.py', 'result': 0}
+2021-07-08 23:10:58.796294{'ip address': '192.168.56.1', 'nom': 'DONTOPEN.py', 'taille': 5170, 'date de creation': 'Thu Jul  8 23:10:55 2021', 'date de modification': 'Tue Jun 22 09:30:39 2021'}
+2021-07-08 23:11:06.795344{'ip address': '192.168.56.1', 'nom': 'DONTOPEN.py', 'result': 0}
+2021-07-08 23:11:06.880366{'ip address': '192.168.56.1', 'nom': 'DONTOPEN.py', 'taille': 5170, 'date de creation': 'Thu Jul  8 23:10:55 2021', 'date de modification': 'Tue Jun 22 09:30:39 2021'}
+2021-07-08 23:21:31.907550{'ip address': '192.168.56.1', 'nom': 'DONTOPEN.py', 'result': 1}
+2024-01-27 23:42:40.537137{'ip address': '192.168.47.1', 'nom': 'sample.pdf', 'taille': 3028, 'date de creation': 'Sat Jan 27 23:42:40 2024', 'date de modification': 'Sun Jan 14 00:36:45 2024'}
+2024-01-27 23:44:11.013837{'ip address': '192.168.47.1', 'nom': 'sample_2.pdf', 'taille': 3028, 'date de creation': 'Sat Jan 27 23:44:10 2024', 'date de modification': 'Sun Jan 14 00:36:45 2024'}
+2024-01-27 23:44:26.803962{'ip address': '192.168.47.1', 'nom': 'sample_2.pdf', 'result': 0}
+2024-01-29 20:37:06.493092{'ip address': '192.168.47.1', 'nom': 'dummy.pdf', 'taille': 13264, 'date de creation': 'Mon Jan 29 20:37:05 2024', 'date de modification': 'Tue Jan 16 15:16:57 2024'}
+2024-01-29 20:39:06.872219{'ip address': '192.168.47.1', 'nom': 'sample_2.pdf', 'taille': 3028, 'date de creation': 'Mon Jan 29 20:39:06 2024', 'date de modification': 'Sun Jan 14 00:36:45 2024'}
+2024-01-29 20:39:16.293687{'ip address': '192.168.47.1', 'nom': 'sample_2.pdf', 'result': 0}
+2024-01-29 20:40:45.897569{'ip address': '192.168.47.1', 'nom': 'sample_3.pdf', 'taille': 3028, 'date de creation': 'Mon Jan 29 20:40:45 2024', 'date de modification': 'Sun Jan 14 00:36:45 2024'}
+2024-01-29 20:40:55.123450{'ip address': '192.168.47.1', 'nom': 'sample_3.pdf', 'result': 0}
+2024-01-29 20:42:01.744735{'ip address': '192.168.47.1', 'nom': 'CashCat.exe', 'taille': 530944, 'date de creation': 'Mon Jan 29 20:42:01 2024', 'date de modification': 'Mon Jan 29 19:13:17 2024'}
+2024-01-29 20:42:13.527399{'ip address': '192.168.47.1', 'nom': 'CashCat.exe', 'result': 1}
+2024-01-29 20:43:02.996354{'ip address': '192.168.47.1', 'nom': 'CashCat_2.exe', 'taille': 530944, 'date de creation': 'Mon Jan 29 20:43:02 2024', 'date de modification': 'Mon Jan 29 19:13:17 2024'}
+2024-01-29 20:43:14.325438{'ip address': '192.168.47.1', 'nom': 'CashCat_2.exe', 'result': 1}
+2024-01-29 20:43:31.085143{'ip address': '192.168.47.1', 'nom': 'sample_3.pdf', 'taille': 3028, 'date de creation': 'Mon Jan 29 20:43:30 2024', 'date de modification': 'Sun Jan 14 00:36:45 2024'}
+2024-01-29 20:43:40.353350{'ip address': '192.168.47.1', 'nom': 'sample_3.pdf', 'result': 0}
+2024-01-29 20:45:07.138003{'ip address': '192.168.47.1', 'nom': 'acknowledgementSlip.pdf', 'taille': 40790, 'date de creation': 'Mon Jan 29 20:45:06 2024', 'date de modification': 'Thu Feb 17 10:36:15 2022'}
+2024-01-29 20:45:23.239393{'ip address': '192.168.47.1', 'nom': 'acknowledgementSlip.pdf', 'result': 0}
+2024-01-29 20:46:25.126261{'ip address': '192.168.47.1', 'nom': 'sample_3.pdf', 'taille': 3028, 'date de creation': 'Mon Jan 29 20:46:24 2024', 'date de modification': 'Mon Jan 29 20:43:55 2024'}
+2024-01-29 20:46:34.916953{'ip address': '192.168.47.1', 'nom': 'sample_3.pdf', 'result': 0}
+2024-01-29 22:38:35.416263{'ip address': '192.168.47.1', 'nom': 'sample_3.pdf', 'taille': 3028, 'date de creation': 'Mon Jan 29 22:38:34 2024', 'date de modification': 'Mon Jan 29 21:21:41 2024'}
+2024-01-29 22:38:45.578900{'ip address': '192.168.47.1', 'nom': 'sample_3.pdf', 'result': 0}
+2024-03-19 19:00:52.076399{'ip address': '192.168.47.1', 'nom': 'acknowledgementSlip.pdf', 'taille': 40790, 'date de creation': 'Tue Mar 19 19:00:39 2024', 'date de modification': 'Thu Feb 17 10:36:15 2022'}
+2024-03-19 19:01:02.781912{'ip address': '192.168.47.1', 'nom': 'acknowledgementSlip.pdf', 'result': 0}
+2024-03-19 19:01:40.891482{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'taille': 193625, 'date de creation': 'Tue Mar 19 19:01:39 2024', 'date de modification': 'Thu Mar 31 17:08:45 2022'}
+2024-03-19 19:01:51.059759{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'result': 0}
+2024-03-19 19:22:05.983936{'ip address': '192.168.47.1', 'nom': 'CashCat_3.exe', 'taille': 530944, 'date de creation': 'Tue Mar 19 19:21:50 2024', 'date de modification': 'Thu Feb  1 13:28:30 2024'}
+2024-03-19 19:22:34.776222{'ip address': '192.168.47.1', 'nom': 'CashCat_3.exe', 'result': 1}
+2024-03-19 19:23:34.539086{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'taille': 193625, 'date de creation': 'Tue Mar 19 19:23:33 2024', 'date de modification': 'Thu Mar 31 17:08:45 2022'}
+2024-03-19 19:23:45.436046{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'result': 0}
+2024-03-19 19:28:41.677535{'ip address': '192.168.47.1', 'nom': 'DumpStack.log', 'taille': 12288, 'date de creation': 'Tue Mar 19 19:28:40 2024', 'date de modification': 'Thu Jun 22 10:36:48 2023'}
+2024-03-19 19:28:51.018451{'ip address': '192.168.47.1', 'nom': 'DumpStack.log', 'result': 0}
+2024-03-19 19:53:42.850395{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'taille': 193625, 'date de creation': 'Tue Mar 19 19:53:30 2024', 'date de modification': 'Thu Mar 31 17:08:45 2022'}
+2024-03-19 19:53:54.205481{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'result': 0}
+2024-03-19 19:56:53.068625{'ip address': '192.168.47.1', 'nom': 'uTorrent.exe', 'taille': 1763848, 'date de creation': 'Tue Mar 19 19:56:28 2024', 'date de modification': 'Sat Sep 10 00:52:54 2022'}
+2024-03-19 19:57:30.127168{'ip address': '192.168.47.1', 'nom': 'uTorrent.exe', 'result': 1}
+2024-03-19 19:59:13.371339{'ip address': '192.168.47.1', 'nom': 'WhatsAppSetup.exe', 'taille': 141524400, 'date de creation': 'Tue Mar 19 19:59:08 2024', 'date de modification': 'Tue Oct 27 00:53:56 2020'}
+2024-03-19 20:02:15.796551{'ip address': '192.168.47.1', 'nom': 'SteamSetup.exe', 'taille': 1770744, 'date de creation': 'Tue Mar 19 20:02:13 2024', 'date de modification': 'Fri Jul  2 20:29:26 2021'}
+2024-03-19 20:02:27.959014{'ip address': '192.168.47.1', 'nom': 'SteamSetup.exe', 'result': 0}
+2024-03-19 20:02:28.588811{'ip address': '192.168.47.1', 'nom': 'WhatsAppSetup.exe', 'taille': 141524400, 'date de creation': 'Tue Mar 19 19:59:08 2024', 'date de modification': 'Tue Oct 27 00:53:56 2020'}
+2024-03-19 20:02:30.557929{'ip address': '192.168.47.1', 'nom': 'TypingMaster10.exe', 'taille': 4297896, 'date de creation': 'Tue Mar 19 20:02:28 2024', 'date de modification': 'Wed Nov 23 22:28:40 2016'}
+2024-03-19 20:07:05.572336{'ip address': '192.168.47.1', 'nom': 'Discord.lnk', 'taille': 2253, 'date de creation': 'Tue Mar 19 20:06:54 2024', 'date de modification': 'Sun Mar 17 20:49:38 2024'}
+2024-03-19 20:07:40.498202{'ip address': '192.168.47.1', 'nom': 'Discord.lnk', 'result': 0}
+2024-03-19 20:09:20.666422{'ip address': '192.168.47.1', 'nom': 'LSBSetup.exe', 'taille': 3213736, 'date de creation': 'Tue Mar 19 20:09:08 2024', 'date de modification': 'Wed Apr 21 13:12:39 2021'}
+2024-03-19 20:09:34.323091{'ip address': '192.168.47.1', 'nom': 'LSBSetup.exe', 'result': 0}
+2024-03-19 20:09:34.641719{'ip address': '192.168.47.1', 'nom': 'LSBSetup.exe', 'taille': 3213736, 'date de creation': 'Tue Mar 19 20:09:08 2024', 'date de modification': 'Wed Apr 21 13:12:39 2021'}
+2024-03-19 20:17:58.776554{'ip address': '192.168.47.1', 'nom': 'LSBSetup.exe', 'result': 1}
+2024-03-19 21:19:49.505778{'ip address': '192.168.47.1', 'nom': 'npcap-1.71.exe', 'taille': 1149544, 'date de creation': 'Tue Mar 19 21:19:47 2024', 'date de modification': 'Tue Oct  4 14:34:23 2022'}
+2024-03-19 21:20:29.496556{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'taille': 1149544, 'date de creation': 'Tue Mar 19 21:20:21 2024', 'date de modification': 'Tue Oct  4 14:34:23 2022'}
+2024-03-19 21:20:38.982864{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'result': 0}
+2024-03-19 21:20:39.346510{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'taille': 1149544, 'date de creation': 'Tue Mar 19 21:20:21 2024', 'date de modification': 'Tue Oct  4 14:34:23 2022'}
+2024-03-19 21:21:00.392441{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'result': 0}
+2024-03-19 21:59:29.812443{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'taille': 193625, 'date de creation': 'Tue Mar 19 21:59:22 2024', 'date de modification': 'Thu Mar 31 17:08:45 2022'}
+2024-03-19 21:59:40.070440{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'result': 0}
+2024-03-19 22:00:12.592694{'ip address': '192.168.47.1', 'nom': 'AICTE Portal Internship declaration.pdf', 'taille': 76861, 'date de creation': 'Tue Mar 19 22:00:10 2024', 'date de modification': 'Fri Sep 10 19:12:19 2021'}
+2024-03-19 22:02:27.306890{'ip address': '192.168.47.1', 'nom': 'DumpStack.log', 'taille': 12288, 'date de creation': 'Tue Mar 19 22:02:15 2024', 'date de modification': 'Thu Jun 22 10:36:48 2023'}
+2024-03-19 22:02:37.138366{'ip address': '192.168.47.1', 'nom': 'DumpStack.log', 'result': 0}
+2024-03-19 23:37:03.676415{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'taille': 193625, 'date de creation': 'Tue Mar 19 23:36:47 2024', 'date de modification': 'Thu Mar 31 17:08:45 2022'}
+2024-03-19 23:37:15.049377{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'result': 0}
+2024-03-20 09:38:55.078591{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'taille': 193625, 'date de creation': 'Wed Mar 20 09:38:33 2024', 'date de modification': 'Thu Mar 31 17:08:45 2022'}
+2024-03-20 09:39:06.732774{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'result': 0}
+2024-03-20 09:41:46.786262{'ip address': '192.168.47.1', 'nom': 'acknowledgementSlip.pdf', 'taille': 40790, 'date de creation': 'Wed Mar 20 09:41:35 2024', 'date de modification': 'Thu Feb 17 10:36:15 2022'}
+2024-03-20 09:42:09.103621{'ip address': '192.168.47.1', 'nom': 'acknowledgementSlip.pdf', 'result': 0}
+2024-03-20 09:46:58.814763{'ip address': '192.168.47.1', 'nom': 'rufus-3.8.exe', 'taille': 1138744, 'date de creation': 'Wed Mar 20 09:46:53 2024', 'date de modification': 'Wed Dec  4 22:19:46 2019'}
+2024-03-20 09:47:28.354454{'ip address': '192.168.47.1', 'nom': 'rufus-3.8.exe', 'result': 0}
+2024-03-20 09:47:28.637824{'ip address': '192.168.47.1', 'nom': 'rufus-3.8.exe', 'taille': 1138744, 'date de creation': 'Wed Mar 20 09:46:53 2024', 'date de modification': 'Wed Dec  4 22:19:46 2019'}
+2024-03-20 09:54:36.961230{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'taille': 193625, 'date de creation': 'Wed Mar 20 09:54:28 2024', 'date de modification': 'Thu Mar 31 17:08:45 2022'}
+2024-03-20 09:54:49.390860{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'result': 0}
+2024-03-20 09:55:13.846642{'ip address': '192.168.47.1', 'nom': 'rufus-3.8_2.exe', 'taille': 1138744, 'date de creation': 'Wed Mar 20 09:55:11 2024', 'date de modification': 'Wed Dec  4 22:19:46 2019'}
+2024-03-20 09:55:24.375871{'ip address': '192.168.47.1', 'nom': 'rufus-3.8_2.exe', 'result': 0}
+2024-03-20 09:57:11.200115{'ip address': '192.168.47.1', 'nom': 'rufus-3.8_3.exe', 'taille': 1138744, 'date de creation': 'Wed Mar 20 09:56:53 2024', 'date de modification': 'Wed Dec  4 22:19:46 2019'}
+2024-03-20 09:57:22.957882{'ip address': '192.168.47.1', 'nom': 'rufus-3.8_3.exe', 'result': 0}
+2024-03-20 09:57:23.193848{'ip address': '192.168.47.1', 'nom': 'rufus-3.8_3.exe', 'taille': 1138744, 'date de creation': 'Wed Mar 20 09:56:53 2024', 'date de modification': 'Wed Dec  4 22:19:46 2019'}
+2024-03-20 09:58:52.674649{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 20 09:58:39 2024', 'date de modification': 'Tue Mar 19 21:21:00 2024'}
+2024-03-20 10:00:34.467904{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'result': 0}
+2024-03-20 10:00:34.792905{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 20 09:58:39 2024', 'date de modification': 'Tue Mar 19 21:21:00 2024'}
+2024-03-20 10:00:55.704080{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'result': 0}
+2024-03-20 10:01:57.316032{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'taille': 193625, 'date de creation': 'Wed Mar 20 10:01:55 2024', 'date de modification': 'Thu Mar 31 17:08:45 2022'}
+2024-03-20 10:02:07.534036{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'result': 0}
+2024-03-20 10:02:39.639608{'ip address': '192.168.47.1', 'nom': 'LSBSetup_2.exe', 'taille': 3213736, 'date de creation': 'Wed Mar 20 10:02:37 2024', 'date de modification': 'Wed Apr 21 13:12:39 2021'}
+2024-03-20 10:02:54.429536{'ip address': '192.168.47.1', 'nom': 'LSBSetup_2.exe', 'result': 0}
+2024-03-20 10:02:54.854360{'ip address': '192.168.47.1', 'nom': 'LSBSetup_2.exe', 'taille': 3213736, 'date de creation': 'Wed Mar 20 10:02:37 2024', 'date de modification': 'Wed Apr 21 13:12:39 2021'}
+2024-03-20 10:03:35.196396{'ip address': '192.168.47.1', 'nom': 'LSBSetup_3.exe', 'taille': 3213736, 'date de creation': 'Wed Mar 20 10:03:25 2024', 'date de modification': 'Wed Apr 21 13:12:39 2021'}
+2024-03-20 10:03:46.940436{'ip address': '192.168.47.1', 'nom': 'LSBSetup_3.exe', 'result': 0}
+2024-03-20 10:03:47.196614{'ip address': '192.168.47.1', 'nom': 'LSBSetup_3.exe', 'taille': 3213736, 'date de creation': 'Wed Mar 20 10:03:25 2024', 'date de modification': 'Wed Apr 21 13:12:39 2021'}
+2024-03-20 10:04:12.363054{'ip address': '192.168.47.1', 'nom': 'LSBSetup_3.exe', 'result': 0}
+2024-03-20 10:04:37.243821{'ip address': '192.168.47.1', 'nom': 'LSBSetup_3.exe', 'taille': 3213736, 'date de creation': 'Wed Mar 20 10:04:35 2024', 'date de modification': 'Wed Apr 21 13:12:39 2021'}
+2024-03-20 10:04:49.062445{'ip address': '192.168.47.1', 'nom': 'LSBSetup_3.exe', 'result': 0}
+2024-03-20 10:04:49.530802{'ip address': '192.168.47.1', 'nom': 'LSBSetup_3.exe', 'taille': 3213736, 'date de creation': 'Wed Mar 20 10:04:35 2024', 'date de modification': 'Wed Apr 21 13:12:39 2021'}
+2024-03-20 10:05:14.488410{'ip address': '192.168.47.1', 'nom': 'LSBSetup_3.exe', 'result': 0}
+2024-03-20 10:20:54.893638{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'taille': 193625, 'date de creation': 'Wed Mar 20 10:19:08 2024', 'date de modification': 'Thu Mar 31 17:08:45 2022'}
+2024-03-20 10:21:05.919198{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'result': 0}
+2024-03-20 10:22:40.585652{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 20 10:22:29 2024', 'date de modification': 'Wed Mar 20 10:00:56 2024'}
+2024-03-20 10:22:52.186876{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'result': 0}
+2024-03-20 10:22:52.597233{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 20 10:22:29 2024', 'date de modification': 'Wed Mar 20 10:00:56 2024'}
+2024-03-20 10:23:13.685328{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'result': 0}
+2024-03-20 10:29:45.657138{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'taille': 193625, 'date de creation': 'Wed Mar 20 10:29:45 2024', 'date de modification': 'Thu Mar 31 17:08:46 2022'}
+2024-03-20 10:29:55.729482{'ip address': '192.168.47.1', 'nom': '17_D10B_CNND_Lab4.pdf', 'result': 0}
+2024-03-20 10:30:43.390527{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 20 10:30:42 2024', 'date de modification': 'Wed Mar 20 10:23:16 2024'}
+2024-03-20 10:30:55.138452{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'result': 0}
+2024-03-20 10:30:55.548057{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 20 10:30:42 2024', 'date de modification': 'Wed Mar 20 10:23:16 2024'}
+2024-03-20 10:31:17.140945{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'result': 0}
+2024-03-20 10:32:44.009602{'ip address': '192.168.47.1', 'nom': 'flutter_app2.apk', 'taille': 128164069, 'date de creation': 'Wed Mar 20 10:32:40 2024', 'date de modification': 'Wed May  3 23:40:00 2023'}
+2024-03-20 11:06:29.248974{'ip address': '192.168.47.1', 'nom': 'rufus-3.8.exe', 'taille': 1138744, 'date de creation': 'Wed Mar 20 11:06:17 2024', 'date de modification': 'Wed Mar 20 11:06:17 2024'}
+2024-03-20 11:06:57.871745{'ip address': '192.168.47.1', 'nom': 'rufus-3.8.exe', 'result': 0}
+2024-03-20 11:06:58.343081{'ip address': '192.168.47.1', 'nom': 'rufus-3.8.exe', 'taille': 1138744, 'date de creation': 'Wed Mar 20 11:06:17 2024', 'date de modification': 'Wed Mar 20 11:06:17 2024'}
+2024-03-20 11:18:53.170311{'ip address': '192.168.47.1', 'nom': 'rufus-3.8_2.exe', 'taille': 1138744, 'date de creation': 'Wed Mar 20 11:18:39 2024', 'date de modification': 'Wed Mar 20 11:18:39 2024'}
+2024-03-20 11:28:30.841980{'ip address': '192.168.47.1', 'nom': 'rufus-3.8_3.exe', 'taille': 1138744, 'date de creation': 'Wed Mar 20 11:27:28 2024', 'date de modification': 'Wed Mar 20 11:27:28 2024'}
+2024-03-20 11:30:43.018540{'ip address': '192.168.47.1', 'nom': 'rufus-3.8_4.exe', 'taille': 1138744, 'date de creation': 'Wed Mar 20 11:29:01 2024', 'date de modification': 'Wed Mar 20 11:29:46 2024'}
+2024-03-20 11:30:53.071403{'ip address': '192.168.47.1', 'nom': 'rufus-3.8_4.exe', 'result': 0}
+2024-03-20 11:30:53.481202{'ip address': '192.168.47.1', 'nom': 'rufus-3.8_4.exe', 'taille': 1138744, 'date de creation': 'Wed Mar 20 11:29:01 2024', 'date de modification': 'Wed Mar 20 11:29:46 2024'}
+2024-03-20 11:39:46.426121{'ip address': '192.168.47.1', 'nom': 'rufus-3.8_5.exe', 'taille': 1138744, 'date de creation': 'Wed Mar 20 11:39:40 2024', 'date de modification': 'Wed Mar 20 11:39:40 2024'}
+2024-03-20 11:39:56.449328{'ip address': '192.168.47.1', 'nom': 'rufus-3.8_5.exe', 'result': 0}
+2024-03-20 11:39:56.968254{'ip address': '192.168.47.1', 'nom': 'rufus-3.8_5.exe', 'taille': 1138744, 'date de creation': 'Wed Mar 20 11:39:40 2024', 'date de modification': 'Wed Mar 20 11:39:40 2024'}
+2024-03-20 11:40:56.895604{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 20 11:40:50 2024', 'date de modification': 'Wed Mar 20 11:40:50 2024'}
+2024-03-20 11:41:13.778225{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'result': 0}
+2024-03-20 11:41:14.069387{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 20 11:40:50 2024', 'date de modification': 'Wed Mar 20 11:40:50 2024'}
+2024-03-20 11:41:36.083908{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'result': 0}
+2024-03-20 13:58:47.208745{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 20 13:58:38 2024', 'date de modification': 'Wed Mar 20 13:58:38 2024'}
+2024-03-20 13:59:35.506712{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'result': 0}
+2024-03-20 13:59:35.754776{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 20 13:58:38 2024', 'date de modification': 'Wed Mar 20 13:58:38 2024'}
+2024-03-20 13:59:56.649541{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'result': 0}
+2024-03-20 14:01:32.275114{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 20 14:01:24 2024', 'date de modification': 'Wed Mar 20 14:01:24 2024'}
+2024-03-20 14:01:43.241030{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'result': 0}
+2024-03-20 14:01:43.398221{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 20 14:01:24 2024', 'date de modification': 'Wed Mar 20 14:01:24 2024'}
+2024-03-20 14:02:03.983874{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'result': 0}
+2024-03-20 14:08:13.605216{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 20 14:07:01 2024', 'date de modification': 'Wed Mar 20 14:08:07 2024'}
+2024-03-20 14:08:25.323675{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'result': 0}
+2024-03-20 14:08:25.473723{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 20 14:07:01 2024', 'date de modification': 'Wed Mar 20 14:08:07 2024'}
+2024-03-20 14:08:45.802384{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'result': 0}
+2024-03-21 19:00:25.626026{'ip address': '192.168.47.1', 'nom': 'rufus-3.8_6.exe', 'taille': 1138744, 'date de creation': 'Thu Mar 21 19:00:21 2024', 'date de modification': 'Thu Mar 21 19:00:21 2024'}
+2024-03-21 19:04:01.329758{'ip address': '192.168.47.1', 'nom': 'rufus-3.8_7.exe', 'taille': 1138744, 'date de creation': 'Thu Mar 21 19:03:56 2024', 'date de modification': 'Thu Mar 21 19:03:56 2024'}
+2024-03-21 19:04:12.142812{'ip address': '192.168.47.1', 'nom': 'rufus-3.8_7.exe', 'result': 0}
+2024-03-21 19:04:12.281440{'ip address': '192.168.47.1', 'nom': 'rufus-3.8_7.exe', 'taille': 1138744, 'date de creation': 'Thu Mar 21 19:03:56 2024', 'date de modification': 'Thu Mar 21 19:03:56 2024'}
+2024-03-27 17:45:32.500239{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_2.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 27 17:45:23 2024', 'date de modification': 'Wed Mar 27 17:45:23 2024'}
+2024-03-27 17:46:39.475795{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_3.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 27 17:46:32 2024', 'date de modification': 'Wed Mar 27 17:46:32 2024'}
+2024-03-27 17:46:54.062902{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_3.exe', 'result': 0}
+2024-03-27 17:46:54.179689{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_3.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 27 17:46:32 2024', 'date de modification': 'Wed Mar 27 17:46:32 2024'}
+2024-03-27 17:47:16.676811{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_3.exe', 'result': 0}
+2024-03-27 17:47:58.015505{'ip address': '192.168.47.1', 'nom': 'LSBSetup.exe', 'taille': 3213736, 'date de creation': 'Wed Mar 27 17:47:57 2024', 'date de modification': 'Wed Mar 27 17:47:57 2024'}
+2024-03-27 17:49:01.025967{'ip address': '192.168.47.1', 'nom': 'LSBSetup.exe', 'result': 0}
+2024-03-27 17:49:01.309756{'ip address': '192.168.47.1', 'nom': 'LSBSetup.exe', 'taille': 3213736, 'date de creation': 'Wed Mar 27 17:47:57 2024', 'date de modification': 'Wed Mar 27 17:47:57 2024'}
+2024-03-27 17:49:25.665598{'ip address': '192.168.47.1', 'nom': 'LSBSetup.exe', 'result': 0}
+2024-03-27 17:49:46.107326{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_3.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 27 17:49:45 2024', 'date de modification': 'Wed Mar 27 17:49:45 2024'}
+2024-03-27 17:49:57.491339{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_3.exe', 'result': 0}
+2024-03-27 17:49:57.569887{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_3.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 27 17:49:45 2024', 'date de modification': 'Wed Mar 27 17:49:45 2024'}
+2024-03-27 17:50:19.467834{'ip address': '192.168.47.1', 'nom': 'npcap-1.71_3.exe', 'result': 0}
+2024-03-27 17:51:09.730008{'ip address': '192.168.47.1', 'nom': 'DumpStack.log', 'taille': 12288, 'date de creation': 'Wed Mar 27 17:51:09 2024', 'date de modification': 'Tue Mar 19 22:02:40 2024'}
+2024-03-27 17:51:20.079436{'ip address': '192.168.47.1', 'nom': 'DumpStack.log', 'result': 0}
+2024-03-27 17:52:02.747004{'ip address': '192.168.47.1', 'nom': 'BraveBrowserSetup.exe', 'taille': 1243504, 'date de creation': 'Wed Mar 27 17:52:01 2024', 'date de modification': 'Sun May 16 22:57:54 2021'}
+2024-03-27 17:52:26.577459{'ip address': '192.168.47.1', 'nom': 'BraveBrowserSetup.exe', 'result': 1}
+2024-03-27 17:52:54.558011{'ip address': '192.168.47.1', 'nom': 'BraveBrowserSetup_2.exe', 'taille': 1243504, 'date de creation': 'Wed Mar 27 17:52:53 2024', 'date de modification': 'Wed Mar 27 17:52:53 2024'}
+2024-03-27 17:53:06.180235{'ip address': '192.168.47.1', 'nom': 'BraveBrowserSetup_2.exe', 'result': 1}
+2024-03-27 17:54:08.570570{'ip address': '192.168.47.1', 'nom': 'gmodule-2.0.dll', 'taille': 26896, 'date de creation': 'Wed Mar 27 17:54:07 2024', 'date de modification': 'Wed Mar 27 17:54:07 2024'}
+2024-03-27 17:54:20.134906{'ip address': '192.168.47.1', 'nom': 'gmodule-2.0.dll', 'result': 0}
+2024-03-27 17:59:40.612176{'ip address': '192.168.47.1', 'nom': 'BraveBrowserSetup.exe', 'taille': 1243504, 'date de creation': 'Wed Mar 27 17:59:33 2024', 'date de modification': 'Wed Mar 27 17:59:33 2024'}
+2024-03-27 17:59:52.673544{'ip address': '192.168.47.1', 'nom': 'BraveBrowserSetup.exe', 'result': 1}
+2024-03-27 18:31:06.746275{'ip address': '192.168.47.1', 'nom': 'BraveBrowserSetup.exe', 'taille': 1243504, 'date de creation': 'Wed Mar 27 18:30:57 2024', 'date de modification': 'Wed Mar 27 18:30:57 2024'}
+2024-03-27 18:31:19.188419{'ip address': '192.168.47.1', 'nom': 'BraveBrowserSetup.exe', 'result': 1}
+2024-03-27 18:32:33.554024{'ip address': '192.168.47.1', 'nom': 'BraveBrowserSetup_2.exe', 'taille': 1243504, 'date de creation': 'Wed Mar 27 18:32:25 2024', 'date de modification': 'Wed Mar 27 18:32:25 2024'}
+2024-03-27 18:32:45.323066{'ip address': '192.168.47.1', 'nom': 'BraveBrowserSetup_2.exe', 'result': 1}
+2024-03-27 18:34:50.892775{'ip address': '192.168.47.1', 'nom': 'npcap-1.71.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 27 18:34:49 2024', 'date de modification': 'Wed Mar 27 18:34:49 2024'}
+2024-03-27 18:35:03.781149{'ip address': '192.168.47.1', 'nom': 'npcap-1.71.exe', 'result': 0}
+2024-03-27 18:35:03.980313{'ip address': '192.168.47.1', 'nom': 'npcap-1.71.exe', 'taille': 1149544, 'date de creation': 'Wed Mar 27 18:34:49 2024', 'date de modification': 'Wed Mar 27 18:34:49 2024'}
+2024-03-27 18:35:26.638508{'ip address': '192.168.47.1', 'nom': 'npcap-1.71.exe', 'result': 0}
+2024-03-27 18:35:48.615015{'ip address': '192.168.47.1', 'nom': 'Cisco_WebEx_Add-On.exe', 'taille': 3758584, 'date de creation': 'Wed Mar 27 18:35:46 2024', 'date de modification': 'Tue Jan 17 19:00:35 2023'}
+2024-03-27 18:37:34.325692{'ip address': '192.168.47.1', 'nom': 'Cisco_WebEx_Add-On.exe', 'result': 0}
+2024-03-27 18:37:34.998802{'ip address': '192.168.47.1', 'nom': 'Cisco_WebEx_Add-On.exe', 'taille': 3758584, 'date de creation': 'Wed Mar 27 18:35:46 2024', 'date de modification': 'Tue Jan 17 19:00:35 2023'}
+2024-03-27 18:43:33.617450{'ip address': '192.168.47.1', 'nom': 'Cisco_WebEx_Add-On.exe', 'result': 1}
+2024-03-27 18:44:17.285070{'ip address': '192.168.47.1', 'nom': 'LSBSetup.exe', 'taille': 3213736, 'date de creation': 'Wed Mar 27 18:44:15 2024', 'date de modification': 'Wed Mar 27 18:44:15 2024'}
+2024-03-27 18:44:28.961977{'ip address': '192.168.47.1', 'nom': 'LSBSetup.exe', 'result': 0}
+2024-03-27 18:44:29.412987{'ip address': '192.168.47.1', 'nom': 'LSBSetup.exe', 'taille': 3213736, 'date de creation': 'Wed Mar 27 18:44:15 2024', 'date de modification': 'Wed Mar 27 18:44:15 2024'}
+2024-03-27 18:44:51.937260{'ip address': '192.168.47.1', 'nom': 'LSBSetup.exe', 'result': 0}
